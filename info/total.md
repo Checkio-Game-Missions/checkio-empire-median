@@ -1,4 +1,5 @@
-We need an accurate census of our troops as this data is vital to our security in the region. To get started, let's make sure that our census takers are up on their statistics skills.
+We need an accurate census of our troops as this data is vital to our security in the region. 
+To get started, let's make sure that our census takers are up on their statistics skills.
 
 A median is a numerical value separating the upper half of a **sorted** array of numbers from the lower half.
 In a list where there are an odd number of entities, the median is the number found in the middle of the array.

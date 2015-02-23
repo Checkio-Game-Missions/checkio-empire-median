@@ -1,2 +1,2 @@
-All soldiers should be counted.
-And statistics is very important if we would know about our troops.
+We need an accurate census of our troops as this data is vital to our security in the region. 
+To get started, let's make sure that our census takers are up on their statistics skills.
